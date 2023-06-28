@@ -1,0 +1,16 @@
+First Step
+
+1. npm install -g expo-cli
+2. expo init --npm
+  > setup app name like easy-app
+  > choose black // i.e going with vanilla js
+
+To start the project 
+3. cd easy-app
+4. npm start
+
+
+mongodb atlas project
+naveendudipalli/b2EN17P4d7G8XrLg
+naveen/naveen
+49.205.251.66/32
